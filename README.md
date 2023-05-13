@@ -10,7 +10,7 @@ The Pokedex allows viewing basic information of the Pokemons, such as name, type
 
 # 🤔 How to use?
 
-To view the Pokedex, simply access the link here. If you wish to download the source code, you can clone this repository and open the index.html file in a web browser.
+To view the Pokedex, simply access the <a href="https://luizmorato.github.io/pokedex-project/">link</a> here. If you wish to download the source code, you can clone this repository and open the index.html file in a web browser.
 
 # 🚀 Technologies used 
 
