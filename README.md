@@ -1,30 +1,35 @@
-# Pokédex de Kanto
+<img src="https://wallpapercave.com/wp/wp7280735.jpg">
 
-Este projeto é uma Pokedex desenvolvida em HTML, CSS e JS, que exibe informações e imagens dos 10 primeiros Pokémons de Kanto. O projeto foi construído durante a "Semana do 0 ao Dev Contratado!" do canal Dev em Dobro, com o objetivo de proporcionar uma oportunidade de aprendizagem em programação web.
+# [![Pika_Hi](https://cdn3.emoji.gg/emojis/1545-pika-hi.gif)](https://emoji.gg/emoji/1545-pika-hi) Pokédex [![BouncingSylveon](https://cdn3.emoji.gg/emojis/8557-bouncingsylveon.gif)](https://emoji.gg/emoji/8557-bouncingsylveon)
 
-# Funcionalidades
+This project is a Pokedex developed in HTML, CSS, and JS, which displays information and images of the first 10 Pokemons from Kanto. The project was built during the "Week from 0 to Hired Dev!" event from Dev em Dobro channel, with the aim of providing a learning opportunity in web programming.
 
-A Pokedex permite visualizar informações básicas dos Pokémons, como nome, tipo, número, imagem e evoluções. Além disso, há um campo de pesquisa para procurar por Pokémons específicos.
+# ✅ Functionalities
 
-# Como usar
+The Pokedex allows viewing basic information of the Pokemons, such as name, type, number, image, and evolutions. Additionally, there is a search field to look for specific Pokemons.
 
-Para visualizar a Pokedex, basta acessar o link aqui. Caso deseje baixar o código fonte, você pode clonar este repositório e abrir o arquivo index.html em um navegador web.
+# 🤔 How to use?
 
-# Tecnologias utilizadas
+To view the Pokedex, simply access the link here. If you wish to download the source code, you can clone this repository and open the index.html file in a web browser.
 
-O projeto foi construído utilizando as seguintes tecnologias:
+# 🚀 Technologies used 
 
-- HTML
-- CSS
-- JavaScript
+The project was built using the following technologies:
 
-# Aprendizagem
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-O desenvolvimento deste projeto proporcionou a oportunidade de aprender conceitos fundamentais de programação web, bem como o uso de tecnologias populares para construção de páginas web. Agradecemos ao canal Dev em Dobro pela iniciativa da "Semana do 0 ao Dev Contratado!" e pelos conhecimentos compartilhados.
+# 💡 Learning
 
-# Contribuições
+The development of this project provided the opportunity to learn fundamental concepts of web programming, as well as the use of popular technologies for building web pages. We thank Dev em Dobro channel for the "Week from 0 to Hired Dev!" initiative and for sharing their knowledge.
 
-Contribuições são sempre bem-vindas! Caso tenha alguma sugestão de melhoria ou correção de bugs, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+# ⚙️ Contributions
 
-# Créditos
-Os créditos deste projeto são do canal Dev em Dobro, por meio da iniciativa "Semana do 0 ao Dev Contratado!". Todos os direitos reservados.
+Contributions are always welcome! If you have any suggestions for improvement or bug fixes, feel free to open an issue or send a pull request.
+
+# 🛠️ Credits
+
+The credits for this project go to Dev em Dobro channel, through the "Week from 0 to Hired Dev!" initiative. All rights reserved.
+
+<a href="https://www.youtube.com/@DevemDobro"><h3>Click to access the "Dev em Dobro!" channel!</h3></a>
